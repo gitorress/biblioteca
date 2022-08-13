@@ -1,4 +1,5 @@
 <?php
+include 'acesso_restrito.php'
 include 'conexao.php';
 ?>
 <!DOCTYPE html>
